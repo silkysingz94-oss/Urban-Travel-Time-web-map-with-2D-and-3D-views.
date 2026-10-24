@@ -1,0 +1,8 @@
+Project files: GBoS GEOAI Urban Travel Time & Intelligent Routing research prototype.
+Copyright and reuse: consult the repository owner before redistributing project-specific branding or attribution.
+Third-party components and map data retain their own licences and terms:
+- Leaflet: https://leafletjs.com/
+- CesiumJS: https://cesium.com/platform/cesiumjs/
+- Chart.js: https://www.chartjs.org/
+- OpenStreetMap data attribution: https://www.openstreetmap.org/copyright
+- Basemap and routing providers are subject to their own terms and usage limits.
